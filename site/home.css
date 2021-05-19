@@ -1,0 +1,44 @@
+* {
+    font-family: sans-serif;
+}
+
+body {
+    color: purple;
+}
+
+a {
+    color: purple;
+    padding: 12px;
+}
+
+nav {
+    text-align: center;
+    font-size: larger;
+}
+
+button {
+    color: white;
+    background: purple;
+    border-radius: 10px;
+    width: 120px;
+    height: 30px;
+}
+
+div {
+    width: 300px;
+    height: 300px;
+    text-align: center;
+    position: relative;
+    float: left;
+    margin-left: 100px;
+}
+
+#banner {
+    padding: 5px;
+    border-radius: 100px;
+}
+
+footer {
+    text-align: center;
+}
+
